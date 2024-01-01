@@ -1,9 +1,9 @@
 # cs4400-serverhandout
 CS4400 A6 - Concurrent Web Server by Alex Cao
 This is the implementation of a concurrent friend-list server.
-    - The server uses a dictionary data structure to keep track the friend list.
-    - The server can accept request from client to add friends, unfriend and list all the friends of a user.
-    - Part of the server’s functionality involves acting as a client to introduce friends from other servers that implement the same protocol.
+- The server uses a dictionary data structure to keep track the friend list.
+- The server can accept request from client to add friends, unfriend and list all the friends of a user.
+- Part of the server’s functionality involves acting as a client to introduce friends from other servers that implement the same protocol.
 -------------------------------------------------------
 To run the server:
     make
